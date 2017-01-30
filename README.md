@@ -1,2 +1,2 @@
 # lejos-nxt-stairbot
-Code for a Lego robot protoype using the leJOS NXT API. 
+Code for a Lego robot prototype using the leJOS NXT API. 
